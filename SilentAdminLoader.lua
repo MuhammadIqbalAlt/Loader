@@ -1,7 +1,7 @@
 -- [[ CREDITS & LICENSE ]]
 -- Source Code: https://github.com/MuhammadIqbalSL/NotALuaScript
 -- Author: Swarman
--- Licensed under CC BY-NC 4.0 (Non-Commercial)
+-- Licensed under MIT License
 -- [[ CONFIGURATION ]]
 local SCRIPT_URL = "https://raw.githubusercontent.com/BALL-blub/NotALuaScript/main/NotAscript.lua"
 local MAX_RETRIES = 3
