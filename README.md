@@ -1,1 +1,1 @@
-# Loader
+# silent admin loader (commandbar2)
