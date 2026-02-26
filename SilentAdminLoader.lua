@@ -1,5 +1,5 @@
 -- [[ CREDITS & LICENSE ]]
--- Source Code: 
+-- Source Code: https://github.com/MuhammadIqbalSL/NotALuaScript
 -- Author: Swarman
 -- Licensed under CC BY-NC 4.0 (Non-Commercial)
 -- [[ CONFIGURATION ]]
