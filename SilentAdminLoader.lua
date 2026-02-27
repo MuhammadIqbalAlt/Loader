@@ -3,9 +3,9 @@
 -- Author: Swarman
 -- Licensed under MIT License
 -- [[ CONFIGURATION ]]
-local SCRIPT_URL = "https://raw.githubusercontent.com/BALL-blub/NotALuaScript/main/NotAscript.lua"
+local SCRIPT_URL = "https://raw.githubusercontent.com/MuhammadIqbalSL/NotALuaScript/refs/heads/main/879b2tjc9zXx3472o80OMB3MG8292ytG2BP4813C3J98H1Du3aux8jgh7bUu56DR.lua"
 local MAX_RETRIES = 3
-local RETRY_DELAY = 2 -- detik
+local RETRY_DELAY = 2
 
 -- [[ STABLE LOADER ]]
 local function SecureLoad(url)
